@@ -4,8 +4,17 @@ models:
     lang_code: en
     model_name: en_core_web_lg
   -
+    lang_code: es
+    model_name: es_core_news_lg
+  -
     lang_code: de
-    model_name: de_core_news_md
+    model_name: de_core_news_lg
   -
     lang_code: es
-    model_name: es_core_news_md
+    model_name: es_core_news_lg
+  -
+    lang_code: ja
+    model_name: ja_core_news_lg
+  -
+    lang_code: zh
+    model_name: zh_core_web_lg

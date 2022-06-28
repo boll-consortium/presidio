@@ -3,3 +3,12 @@ models:
   -
     lang_code: en
     model_name: en_core_web_sm
+  -
+    lang_code: es
+    model_name: es_core_news_sm
+  -
+    lang_code: ja
+    model_name: ja_core_news_sm
+  -
+    lang_code: zh
+    model_name: zh_core_web_sm

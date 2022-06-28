@@ -3,4 +3,13 @@ models:
   -
     lang_code: en
     model_name: en
+  -
+    lang_code: es
+    model_name: es
+  -
+    lang_code: ja
+    model_name: ja
+  -
+    lang_code: zh
+    model_name: zh
 
